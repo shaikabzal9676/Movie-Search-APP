@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Source 
-[https://github.com/olawanlejoel/movies-search-app](https://github.com/olawanlejoel/movies-search-app)
+[https://github.com/shaikabzal9676/Movie-Search-APp](https://github.com/shaikabzal9676/Movie-Search-APp)
 
 ## Available Scripts
 
